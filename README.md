@@ -1,3 +1,3 @@
 # Psh
-poweshell tools contains multi tools
+Poweshell tools contains multi tools
 
